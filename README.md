@@ -9,6 +9,7 @@ Attention this method was only tested for libretro-prboom in RetroPie branch
 ## How to setup
 Please edit the script and use correct pathes and wadfiles.
 Take care that you are using __prBOOM__!
+
 Path variable does __not end with a /__
 ```bash
 # Synopsis - Douple Check pathes and settings
@@ -24,6 +25,8 @@ path="/home/pi/RetroPie/roms/ports/doom"
 wadfile="doom1.wad"
 ```
 
+
+```
  +------------------------------------------------------------------------------------+
  | Launch Doom, Doom2, Plutonia, TNT-Evilution and other WAD files      rel. 07/15/17 |
  | Prerequisites:                                                                     |
@@ -53,4 +56,6 @@ wadfile="doom1.wad"
  +------------------------------------------------------------------------------------+
  | v1.0:  initial release based on https://github.com/crcerror/launch-quake-packs-RP  |
  +------------------------------------------------------------------------------------+
+```
 
+yours cyperghost
